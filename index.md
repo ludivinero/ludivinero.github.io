@@ -1,37 +1,33 @@
-## Welcome to GitHub Pages
+## Ludivine ROBERT
 
-You can use the [editor on GitHub](https://github.com/ludivinero/ludivinero.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+👋🏻 Après une licence en Sciences du Langage👩🏻‍🎓 qui m’a fait découvrir l’univers du Traitement Automatique des Langues par la manipulation de logiciels linguistiques, la programmation ou encore le recueil et l’annotation de corpus, j’ai souhaité continuer dans cette voie à l’intersection de la linguistique et de l’intelligence artificielle.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Aussi, mon goût pour les outils informatiques💻 que je développe au sein de mon association musicale📯 a renforcé ce choix.
 
-### Markdown
+J’ai alors poursuivi avec un master en TAL🌍 très riche tant au niveau scientifique qu’au niveau culturel.
+Les différentes expériences académiques📚 et industrielles🍊 m’ont permis de travailler sur plusieurs sujets de recherche linguistique et développement informatique comme la synthèse vocale🗣, le traitement de corpus ou encore l’analyse sémantique📜.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Mon attrait pour ce domaine et les technologies associées qui évoluent chaque jour me font progresser dans mon parcours de TAListe [tba]
 
-```markdown
-Syntax highlighted code block
+### Contact
 
-# Header 1
-## Header 2
-### Header 3
+Par [Mail](ludivinerobert3@gmail.com)
+Par [Linkedin](www.linkedin.com/in/ludivinerobert3)
+et plus de projets sur [Github](https://github.com/LudivineRobert)
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+### Projets passés
 
-**Bold** and _Italic_ and `Code` text
+## Industriels
+- Annotation linguistique de corpus pour un modèle de questions-réponses
+- Définition, construction et évalusation d'une grille d'analyse du discours pour l'analyse de commentaires clients
+- Test d'une interface de classification pour la création d'un corpus médical
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ludivinero/ludivinero.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## Académiques
+- Multilingual text-to-speech system
+- Terms identification systems
+- Articulatory analysis with the Corpus MNGU0
+- Syllabification des mots du français
+- Traducteur épicène
+- Digital project management 
+- Testing Greenberg's Linguistic Universal using a Graph rewriting tool
