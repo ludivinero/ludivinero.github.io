@@ -5,8 +5,6 @@ permalink: /page/
 show_excerpts: true
 entries_layout: list
 ---
-### Projets passés
-
 #### Industriels
 - Annotation linguistique de corpus pour un modèle de questions-réponses
 - Définition, construction et évalusation d'une grille d'analyse du discours pour l'analyse de commentaires clients
