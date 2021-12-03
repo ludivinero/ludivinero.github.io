@@ -1,7 +1,7 @@
 ---
 title: Projets passés
-layout: projets
-permalink: /projets/
+layout: page
+permalink: /page/
 show_excerpts: true
 entries_layout: list
 ---
