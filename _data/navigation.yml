@@ -1,6 +1,6 @@
 # Sample site navigation bar links
 
-- title:  À propos
+- title:  Home
   url: /
 - title: Projet
   url: /projets/
