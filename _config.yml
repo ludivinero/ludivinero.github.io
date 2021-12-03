@@ -104,7 +104,7 @@ author:
 footer_links:
   - title: Linkedin
     url: https://www.linkedin.com/in/ludivinerobert3/
-    icon: fa fa-linkedin-square
+    icon: fab fa-linkedin
   - titles: Github
     url: https://github.com/LudivineRobert
     icon : fab fa-github-square
