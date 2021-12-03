@@ -18,10 +18,10 @@ remote_theme: mmistakes/so-simple-theme@3.2.0
 skin: "/assets/css/skins/light.css"
 locale: fr
 title: "Ludivine ROBERT"
-description: " "
+description: "Mes actus"
 baseurl: # the subpath of your site, e.g. "/blog"
 url: "https://ludivinero.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-logo: "logo.png" # path of site logo, e.g. "/images/logo.png"
+logo: "/logo.png" # path of site logo, e.g. "/images/logo.png"
 date_format: "%B %-d, %Y"
 read_time: # reading time estimates, e.g. true
 words_per_minute: # 200
@@ -91,8 +91,8 @@ defaults:
 
 # Site Author
 author:
-  name: Ludivine ROBERT
-  picture: photo.JPG
+  name: "Ludivine ROBERT"
+  picture: "/photo.JPG"
   email:
   twitter:
   links:
