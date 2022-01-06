@@ -1,8 +1,8 @@
 ---
 title: "Testing Greenberg’s Linguistic Universal using a Graph rewriting tool"
 image: 
-  path: /logo.jpg
-  thumbnail: /logo.jpg
+  path: /logo.png
+  thumbnail: /logo.png
   caption: "logo"
 ---
 
