@@ -1,6 +1,6 @@
 ---
 title: CV
-layout: page2
+layout: page
 permalink: /page2/
 show_excerpts: true
 entries_layout: list
