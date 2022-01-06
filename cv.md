@@ -6,6 +6,6 @@ show_excerpts: true
 entries_layout: list
 ---
 
-<p style="text-align: center;">![cv](CV_Ludivine_Robert.pdf)</p>
+![cv](CV_Ludivine_Robert.pdf)
 
 
