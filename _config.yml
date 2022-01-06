@@ -81,12 +81,21 @@ plugins:
 
 # Front Matter Defaults
 defaults:
-  # Posts defaults
+  # Post defaults
   - scope:
       path: "_posts"
       type: posts
     values:
       layout: post
+      comments: true
+      share: true
+  # Recipe defaults
+  - scope:
+      path: "_recipes"
+      type: recipes
+    values:
+      layout: post
+      comments: true
       share: true
 
 # Site Author
