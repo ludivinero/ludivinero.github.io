@@ -1,7 +1,7 @@
 ---
 title: CV
 layout: page2
-permalink: /page/
+permalink: /page2/
 show_excerpts: true
 entries_layout: list
 ---
