@@ -1,9 +1,9 @@
 ---
 title: CV
-layout: page
+layout: page2
 permalink: /page/
 show_excerpts: true
 entries_layout: list
 ---
-![cv](CV_ludivine_Robert.pdf)
+![cv](CV_Ludivine_Robert.pdf)
 
