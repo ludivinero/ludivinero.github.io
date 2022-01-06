@@ -2,7 +2,7 @@
 title: Projets passés
 layout: collection
 permalink: /posts/
-collection: recipes
+collection: posts
 entries_layout: grid
 ---
 
