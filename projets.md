@@ -11,7 +11,8 @@ entries_layout: list
 - Test d'une interface de classification pour la création d'un corpus médical @[Aliae](https://www.aliae.io)
 
 #### Académiques
-- Multilingual text-to-speech system @LORIA \nℹ️[source](https://github.com/ludivinero/multilingual-text-to-speech-system-software-project)
+- Multilingual text-to-speech system @LORIA <br />
+  ℹ️[source](https://github.com/ludivinero/multilingual-text-to-speech-system-software-project)
 - Terms identification systems @IDMC
   ℹ️[source](https://github.com/ludivinero/terminology_project)
 - Articulatory analysis with the Corpus MNGU0 @IDMC
