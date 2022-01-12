@@ -8,4 +8,4 @@ This project use different software ressources :
 | ------ | ------ |
 | Jekyll| [https://jekyllrb.com][Jekyll] |
 | So Simple Theme| [https://github.com/mmistakes/so-simple-theme][SoSimple] |
-| Markdown | [https://fr.wikipedia.org/wiki/MarkdownL][Markdown] |
+| Markdown | [wiki/MarkdownL][Markdown] |
