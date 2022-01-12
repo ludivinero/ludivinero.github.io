@@ -10,6 +10,6 @@ entries_layout: list
 Aussi, mon goût pour les outils informatiques💻 développé au sein d'une association musicale📯 a renforcé ce choix.
 
 J’ai alors poursuivi avec un master en TAL🌍 très riche tant au niveau scientifique qu’au niveau culturel.
-Les différentes [expériences](projets.md) académiques📚 et industrielles🍊 m’ont permis de travailler sur plusieurs sujets de recherche linguistique et développement informatique comme la synthèse vocale🗣, le traitement de corpus ou encore l’analyse sémantique📜.
+Les différentes <a href="projets.md" style="color:Banana Yellow; text-decoration:none;">expériences</a> académiques📚 et industrielles🍊 m’ont permis de travailler sur plusieurs sujets de recherche linguistique et développement informatique comme la synthèse vocale🗣, le traitement de corpus ou encore l’analyse sémantique📜.
 
-Mon attrait pour ce domaine et les technologies associées qui évoluent chaque jour me font progresser dans mon [parcours](cv.md) de TAListe [tba]
+Mon attrait pour ce domaine et les technologies associées qui évoluent chaque jour me font progresser dans mon <a href="cv.md" style="color:Banana Yellow; text-decoration:none;">parcours</a> de TAListe [tba]
