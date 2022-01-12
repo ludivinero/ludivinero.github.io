@@ -7,7 +7,7 @@ entries_layout: list
 ---
 #### Industriels
 - Annotation linguistique de corpus pour un modèle de questions-réponses
-- Définition, construction et évalusation d'une grille d'analyse du discours pour l'analyse de commentaires clients @<a href="https://hellofuture.orange.com/fr/" style="color:orange">Orange</a>
+- Définition, construction et évalusation d'une grille d'analyse du discours pour l'analyse de commentaires clients @<a href="https://hellofuture.orange.com/fr/" style="color:#FFCB53">Orange</a>
 - Test d'une interface de classification pour la création d'un corpus médical @[Aliae](https://www.aliae.io)
 
 #### Académiques
