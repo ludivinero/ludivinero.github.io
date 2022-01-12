@@ -11,14 +11,10 @@ entries_layout: list
 - Test d'une interface de classification pour la création d'un corpus médical @[Aliae](https://www.aliae.io)
 
 #### Académiques
-- Multilingual text-to-speech system @LORIA <br />
-  ℹ️[source](https://github.com/ludivinero/multilingual-text-to-speech-system-software-project)
-- Terms identification systems @IDMC
-  ℹ️[source](https://github.com/ludivinero/terminology_project)
+- Multilingual text-to-speech system @LORIA[ℹ️](https://github.com/ludivinero/multilingual-text-to-speech-system-software-project)
+- Terms identification systems @IDMC[ℹ️](https://github.com/ludivinero/terminology_project)
 - Articulatory analysis with the Corpus MNGU0 @IDMC
-- Syllabification des mots du français @IDMC
-  ℹ️[source](https://github.com/ludivinero/syllabification_projet)
-- Traducteur épicène @IDMC
-  ℹ️[source](https://github.com/ludivinero/Traducteur_epicene)
+- Syllabification des mots du français @IDMC[ℹ️](https://github.com/ludivinero/syllabification_projet)
+- Traducteur épicène @IDMC[ℹ️](https://github.com/ludivinero/Traducteur_epicene)
 - Digital project management @IDMC
 - Testing Greenberg's Linguistic Universal using a Graph rewriting tool @LORIA
