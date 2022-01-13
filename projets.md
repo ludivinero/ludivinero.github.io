@@ -6,7 +6,7 @@ show_excerpts: true
 entries_layout: list
 ---
 #### Industriels
-- Annotation linguistique de corpus pour un modèle de questions-réponses
+- Annotation linguistique de corpus pour un modèle de questions-réponses @<a href="https://www.lis-lab.fr" style="color:blue; text-decoration:none;">LIS</a>x<a href="https://hellofuture.orange.com/fr/" style="color:coral; text-decoration:none;">Orange</a>
 - Définition, construction et évalusation d'une grille d'analyse du discours pour l'analyse de commentaires clients @<a href="https://hellofuture.orange.com/fr/" style="color:coral; text-decoration:none;">Orange</a>
 - Test d'une interface de classification pour la création d'un corpus médical @<a href="https://hellofuture.orange.com/fr/" style="color:slateblue; text-decoration:none;">Aliae</a>
 
