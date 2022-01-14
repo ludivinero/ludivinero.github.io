@@ -6,6 +6,8 @@ show_excerpts: true
 entries_layout: list
 ---
 
-![cv](CV_Ludivine_Robert.pdf)
+<p class="aligncenter">
+    <img src="CV_Ludivine_Robert.pdf" alt="cv" />
+</p>
 
 
