@@ -6,8 +6,6 @@ show_excerpts: true
 entries_layout: list
 ---
 
-<p class="aligncenter">
+<p class="center">
     <img src="CV_Ludivine_Robert.pdf" alt="cv" />
 </p>
-
-
