@@ -18,3 +18,6 @@ entries_layout: list
 - Traducteur épicène @IDMC<a href="https://github.com/ludivinero/Traducteur_epicene" style="text-decoration:none;">ℹ️</a>
 - Digital project management @IDMC
 - Testing Greenberg's Linguistic Universal using a Graph rewriting tool @LORIA
+
+#### Externe
+- Création d'un site web @<a href="sanspistons.fr" style="color:green"; "text-decoration:none;">Sans Pistons</a>
