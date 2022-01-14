@@ -20,4 +20,4 @@ entries_layout: list
 - Testing Greenberg's Linguistic Universal using a Graph rewriting tool @LORIA
 
 #### Externe
-- Création d'un site web @<a href="https://sanspistons.fr" style="color:green; text-decoration:none;">Sans Pistons</a>
+- Création d'un site web @<a href="www.sanspistons.fr" style="color:green; text-decoration:none;">Sans Pistons</a>
