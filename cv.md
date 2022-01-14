@@ -6,4 +6,4 @@ show_excerpts: true
 entries_layout: list
 ---
 
-<p align="center"><img src="CV_Ludivine_Robert.pdf" alt="cv" /></p>
+<p align="center"><img src="https://github.com/ludivinero/ludivinero.github.io/blob/main/CV_Ludivine_Robert.pdf" alt="cv" /></p>
