@@ -113,7 +113,7 @@ author:
 footer_links:
   - title: Linkedin
     url: https://www.linkedin.com/in/ludivinerobert3/
-    icon: fa fa-linkedin
+    icon: fab fa-linkedin
   - titles: Github
     url: https://github.com/ludivinero
-    icon : fa fa-github
+    icon : fab fa-github
