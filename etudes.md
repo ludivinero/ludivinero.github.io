@@ -14,7 +14,7 @@ entries_layout: list
 | Terminology  | Term processing; Mono/Multi-lingual term acquisitions | TermSuite  |   |
 | Ontology  |       |      |     |
 | Natural Language Generation  |     |   |     |
-| Lexical resources   | Word embeddings, Wikipedia/Wiktionary, N-Grams | FastText | [dumps][dumps] ; [xefer][xefer]  |
+| Lexical resources   | Word embeddings, Wikipedia/Wiktionary, N-Grams | FastText, FrameNet, VerNet, PropBank | [dumps][dumps] ; [xefer][xefer]  |
 | Computational semantics   |     |     | [SemComp][SemComp]    |
 | Formalisms |     |      |      |
 | Software project  | "Multilingual Text-to-Speech system"   | | |
