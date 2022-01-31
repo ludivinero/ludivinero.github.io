@@ -18,7 +18,7 @@ remote_theme: mmistakes/so-simple-theme@3.2.0
 skin: "/assets/css/skins/light.css"
 locale: fr
 title: "Ludivine ROBERT"
-description: "Bienvenue sur ma page (en construction)"
+description: "Ingénieure en Traitement Automatique des Langues & Musicienne chargée de communication"
 baseurl: # the subpath of your site, e.g. "/blog"
 url: "https://ludivinero.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 logo: "/photo.JPG" # path of site logo, e.g. "/images/logo.png"
