@@ -6,8 +6,8 @@ show_excerpts: true
 entries_layout: list
 ---
 
-## À venir
-- Analyses de comportements langagiers en interaction et dans le texte (et développement automatique) pour la détection des _softskills_ @<a href="https://skilder.fr" style="color:#ffe135; text-decoration:none;">Skilder</a>x<a href="http://icar.cnrs.fr/recherche/interactions-cognitions/equipe-12/" style="color:blue; text-decoration:none;">ICAR</a>
+## En cours
+- Analyses de comportements langagiers en interactions orales et écrites (et développement automatique) pour la détection des _softskills_ @<a href="https://skilder.fr" style="color:#ffe135; text-decoration:none;">Skilder</a>x<a href="http://icar.cnrs.fr/recherche/interactions-cognitions/equipe-12/" style="color:blue; text-decoration:none;">ICAR</a>
 
 ## Passés
 #### Industriels
