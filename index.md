@@ -7,7 +7,7 @@ entries_layout: list
 
 
 
-#### Intérêts : traitement automatique des langues, linguistique informatique, analyse des interactions, analyse automatique du langage écrit et oral, synthèse vocale, reconnaissance vocale, interactions hommes-machines.
+**Intérêts : traitement automatique des langues, linguistique informatique, analyse des interactions, analyse automatique du langage écrit et oral, synthèse vocale, reconnaissance vocale, interactions hommes-machines.**
 
 👋🏻 Après une licence en Sciences du Langage👩🏻‍🎓 qui m’a fait découvrir l’univers du Traitement Automatique des Langues par la manipulation de logiciels linguistiques, la programmation ou encore le recueil et l’annotation de corpus, j’ai souhaité continuer dans cette voie à l’intersection de la linguistique et de l’intelligence artificielle.
 
