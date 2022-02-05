@@ -22,5 +22,5 @@ Actuellement ingénieure d'études, mon intérêt se porte sur le développement
 [tbc]
 
 
-<p align="center" style="font-style: italic;>Le plus efficace pour créer, c’est clairement la sieste. En me levant, tout est fait.</p>
+<p align="center"><i>Le plus efficace pour créer, c’est clairement la sieste. En me levant, tout est fait.</i></p>
 
