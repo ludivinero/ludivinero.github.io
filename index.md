@@ -20,3 +20,6 @@ Mon attrait pour ce domaine et les technologies associées qui évoluent chaque 
 
 Actuellement ingénieure d'études, mon intérêt se porte sur le développement de modèles de TALN pour l'analyse de comportements langagiers en intéractions.
 [tbc]
+
+
+_Le plus efficace pour créer, c’est clairement la sieste. En me levant, tout est fait._
