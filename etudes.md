@@ -10,9 +10,8 @@ entries_layout: list
 |-----------|--------------|-------|--------------|
 | Neural Network (deep learning) | Feedforward NN, Autoencoders, Convolutional NN | | [usherbrooke][usherbrooke] ; [deeplearningbook][deeplearningbook] |
 | Data mining | Item sets and Association rules | Apriori algorithm  | |
-| Speech and Text Processing |   | Visartico |  |
-| Terminology  | Term processing; Mono/Multi-lingual term acquisitions | TermSuite  |   |
-| Ontology  |       |      |     |
+| Speech and Text Processing | Automatic Speech Recognition  | Visartico |  |
+| Terminology and Ontology | Term processing; Mono/Multi-lingual term acquisitions | TermSuite  |   |
 | Natural Language Generation  |     |   |     |
 | Lexical resources   | Word embeddings, Wikipedia/Wiktionary, N-Grams | FastText, FrameNet, VerNet, WordNet, PropBank | [dumps][dumps] ; [xefer][xefer]  |
 | Computational semantics   |     |     | [SemComp][SemComp]    |
@@ -41,14 +40,14 @@ entries_layout: list
 | Modèles syntaxiques      | Structure de traits |||
 | Macro/Micro syntaxe      |       | XLFG   ||
 | Morphology||||
-| Phonétique || Praat ||
+| Phonétique || Praat, Treetager ||
 | Phonologie||||
 | Sociolinguistique||||
 | Psycholinguistique||||
 | Acquisition du language oral et écrit || Phon ||
 | Constitution et Traitement de corpus || Perl, Ortholangue ||
 | Statistique et Linguistique de corpus || Clarin, frWaC, TXM ||
-| Lexicographie ||||
+| Lexicographie ||CNRTL, Crisco ||
 | Histoire et Contact des langues||||
 | Sémantique||||
 | Énonciation||||
