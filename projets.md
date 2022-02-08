@@ -17,6 +17,8 @@ entries_layout: list
 
 #### Académiques
 - Multilingual text-to-speech system @LORIA<a href="https://github.com/ludivinero/multilingual-text-to-speech-system-software-project" style="text-decoration:none;">ℹ️</a>
+- Études de la population du Grand Est (source: INSEE) par des méthodes de data mining @IDMC<a href="https://github.com/ludivinero/data-mining-project" style="text-decoration:none;">ℹ️</a>
+- Recommender systems survey @IDMC<a href="https://github.com/ludivinero/Recommendation_System" style="text-decoration:none;">ℹ️</a>
 - Terms identification systems @IDMC<a href="https://github.com/ludivinero/terminology_project" style="text-decoration:none;">ℹ️</a>
 - Articulatory analysis with the Corpus MNGU0 @IDMC
 - Syllabification des mots du français @IDMC<a href="https://github.com/ludivinero/syllabification_projet" style="text-decoration:none;">ℹ️</a>
