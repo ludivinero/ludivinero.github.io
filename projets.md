@@ -16,10 +16,10 @@ entries_layout: list
   - Développement d'un corpus français annoté
 - Définition, construction et évalusation d'une grille d'analyse du discours pour l'analyse de commentaires clients @<a href="https://hellofuture.orange.com/fr/" style="color:coral; text-decoration:none;">Orange</a>
   - État de l’art et constitution d’une grille généralisée en types de phrases
-  - Annotation via Doccano de corpus français et écriture d'un guide
+  - Annotation via <a href="https://doccano.github.io/doccano/" style="color:slateblue; text-decoration:none;">Doccano</a> de corpus français et écriture d'un guide
   - Développement et application de méthodes de clustering et échantillonnage
   - Entraînement et évaluation de classifieurs multi-étiquettes à base de transformer
-- Test d'une interface de classification pour la création d'un corpus médical @<a href="https://hellofuture.orange.com/fr/" style="color:slateblue; text-decoration:none;">Aliae</a>
+- Test d'une interface de classification pour la création d'un corpus médical @<a href="https://www.aliae.io" style="color:slateblue; text-decoration:none;">Aliae</a>
   - Révision d'annotations en français et anglais
 
 #### Académiques
