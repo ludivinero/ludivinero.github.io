@@ -12,11 +12,22 @@ entries_layout: list
 ## Passés
 #### Industriels
 - Annotation linguistique de corpus pour un modèle de questions-réponses @<a href="https://www.lis-lab.fr" style="color:blue; text-decoration:none;">LIS</a>x<a href="https://hellofuture.orange.com/fr/" style="color:coral; text-decoration:none;">Orange</a>
+  - Rédaction d'un guide d'annotations
+  - Développement d'un corpus français annoté
 - Définition, construction et évalusation d'une grille d'analyse du discours pour l'analyse de commentaires clients @<a href="https://hellofuture.orange.com/fr/" style="color:coral; text-decoration:none;">Orange</a>
+  - État de l’art et constitution d’une grille généralisée en types de phrases
+  - Annotation via Doccano de corpus français et écriture d'un guide
+  - Développement et application de méthodes de clustering et échantillonnage
+  - Entraînement et évaluation de classifieurs multi-étiquettes à base de transformer
 - Test d'une interface de classification pour la création d'un corpus médical @<a href="https://hellofuture.orange.com/fr/" style="color:slateblue; text-decoration:none;">Aliae</a>
+  - Révision d'annotations en français et anglais
 
 #### Académiques
 - Multilingual text-to-speech system @LORIA<a href="https://github.com/ludivinero/multilingual-text-to-speech-system-software-project" style="text-decoration:none;">ℹ️</a>
+  - État de l’art des modèles bout-en-bout
+  - Pré-traitement de données textuelles
+  - Entraînement de modèles à base de réseaux de neurones
+  - Mise en place d'une plate-forme d'évaluation subjective
 - Études de la population du Grand Est (source: INSEE) par des méthodes de data mining @IDMC<a href="https://github.com/ludivinero/data-mining-project" style="text-decoration:none;">ℹ️</a>
 - Recommender systems survey @IDMC<a href="https://github.com/ludivinero/Recommendation_System" style="text-decoration:none;">ℹ️</a>
 - Terms identification systems @IDMC<a href="https://github.com/ludivinero/terminology_project" style="text-decoration:none;">ℹ️</a>
