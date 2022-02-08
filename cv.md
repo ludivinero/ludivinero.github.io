@@ -1,5 +1,5 @@
 ---
-title: Curriculum vitæ
+title: Curriculum Vitæ
 layout: page
 permalink: /page2/
 show_excerpts: true
