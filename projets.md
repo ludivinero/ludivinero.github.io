@@ -15,7 +15,7 @@ entries_layout: list
   - Rédaction d'un guide d'annotations
   - Développement d'un corpus français annoté
   - [Article](publi.md) de présentation du corpus à paraître
-- Définition, construction et évalusation d'une grille d'analyse du discours pour l'analyse de commentaires clients @<a href="https://hellofuture.orange.com/fr/" style="color:coral; text-decoration:none;">Orange</a>
+- Définition, construction et évaluation d'une grille d'analyse du discours pour l'analyse de commentaires clients @<a href="https://hellofuture.orange.com/fr/" style="color:coral; text-decoration:none;">Orange</a>
   - État de l’art et constitution d’une grille généralisée en types de phrases
   - Annotation via <a href="https://doccano.github.io/doccano/" style="color:slateblue; text-decoration:none;">Doccano</a> de corpus français et écriture d'un guide
   - Développement et application de méthodes de clustering et échantillonnage
