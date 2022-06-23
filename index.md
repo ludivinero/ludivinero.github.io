@@ -7,7 +7,7 @@ entries_layout: list
 
 
 
-**Intérêts : traitement automatique des langues, linguistique informatique, analyse des interactions, analyse automatique du langage écrit et oral, synthèse vocale, reconnaissance vocale, interactions hommes-machines.**
+**Intérêts : traitement automatique des langues, analyse automatique du langage écrit et oral, interactions hommes-machines, synthèse vocale, reconnaissance vocale, recherche et extraction d'informations, linguistique informatique**
 
 👋🏻 Après une licence en Sciences du Langage👩🏻‍🎓 qui m’a fait découvrir l’univers du Traitement Automatique des Langues par la manipulation de logiciels linguistiques, la programmation ou encore le recueil et l’annotation de corpus, j’ai souhaité continuer dans cette voie à l’intersection de la linguistique et de l’intelligence artificielle.
 
@@ -18,7 +18,7 @@ Les différentes <a href="https://ludivinero.github.io/page/" style="color:#ffe1
 
 Mon attrait pour ce domaine et les technologies associées qui évoluent chaque jour me font progresser dans mon <a href="https://ludivinero.github.io/page2/" style="color:#ffe135; text-decoration:none;">parcours</a> de TAListe.
 
-Actuellement ingénieure d'études, mon intérêt se porte sur le développement de modèles de TALN pour l'analyse de comportements langagiers en intéractions.
+Actuellement ingénieure d'études @Skilder, mon intérêt se porte sur le développement de modèles de TALN pour l'analyse de comportements langagiers afin de détecter des soft skills.
 [tbc]
 
 
