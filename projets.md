@@ -6,6 +6,9 @@ show_excerpts: true
 entries_layout: list
 ---
 
+## À venir
+- Chaîne de traitement pour l'analyse automatique de productions écrites par des populations dyslexiques, et visualisation de statistiques
+
 ## En cours
 - Analyses de comportements langagiers en interactions orales et écrites (et développement automatique) pour la détection des _softskills_ @<a href="https://skilder.fr" style="color:#ffe135; text-decoration:none;">Skilder</a>x<a href="http://icar.cnrs.fr/recherche/interactions-cognitions/equipe-12/" style="color:blue; text-decoration:none;">ICAR</a>
 
@@ -39,4 +42,4 @@ entries_layout: list
 - Testing Greenberg's Linguistic Universal using a Graph rewriting tool @LORIA
 
 #### Externe
-- Création d'un site web @<a href="www.sanspistons.fr" style="color:green; text-decoration:none;">Sans Pistons</a>
+- Création d'un site web @<a href="http://sanspistons.fr" style="color:green; text-decoration:none;">Sans Pistons</a>
