@@ -19,6 +19,7 @@ Les différentes <a href="https://ludivinero.github.io/page/" style="color:#ffe1
 Mon attrait pour ce domaine et les technologies associées qui évoluent chaque jour me font progresser dans mon <a href="https://ludivinero.github.io/page2/" style="color:#ffe135; text-decoration:none;">parcours</a> de TAListe.
 
 Actuellement ingénieure d'études @Skilder, mon intérêt se porte sur le développement de modèles de TALN pour l'analyse de comportements langagiers afin de détecter des soft skills.
+Durant mes temps libres, j'aime continuer à développer mes compétences en développement web et communication via mon association musicale; mais aussi 🏃‍ 🌍 👩‍🍳 ...
 [tbc]
 
 
