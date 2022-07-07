@@ -7,4 +7,7 @@ entries_layout: list
 ---
 
 ### Published
-<p>Frédéric Béchet, Ludivine Robert, Lina Rojas-Barahona, and Géraldine Damnati. <u>Calor-Dial : a corpus for Conversational Question Answering on French encyclopedic documents (extended abstract).</u><i> In Proceedings of Joint Conference of the Information Retrieval Communities in Europe (CIRCLE22). ACM, New York, NY, USA, 3 pages. </i>2022.</p>
+<p>Frédéric Béchet, Ludivine Robert, Lina Rojas-Barahona, and Géraldine Damnati.<br>
+<u>Calor-Dial : a corpus for Conversational Question Answering on French encyclopedic
+documents.</u> In CIRCLE (Joint Conference of the Information Retrieval Communities in
+Europe), Samatan, France, July 2022</p>
