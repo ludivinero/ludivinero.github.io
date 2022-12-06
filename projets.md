@@ -7,7 +7,8 @@ entries_layout: list
 ---
 
 ## En cours
-- Analyses de comportements langagiers oraux et écrites (et développement automatique) pour la détection des _softskills_ @<a href="https://skilder.fr" style="color:#ffe135; text-decoration:none;">Skilder</a>x<a href="http://icar.cnrs.fr/recherche/interactions-cognitions/equipe-12/" style="color:blue; text-decoration:none;">ICAR</a>
+- Développement d'analyses automatiques de comportements langagiers oraux et écrits pour la détection des _softskills_ @<a href="https://skilder.fr" style="color:#ffe135; text-decoration:none;">Skilder</a>x<a href="http://icar.cnrs.fr/recherche/interactions-cognitions/equipe-12/" style="color:blue; text-decoration:none;">ICAR</a>
+- Création d'un outil d'analyse automatique de productions de populations dyslexiques, et visualisation de statistiques @<a href="http://icar.cnrs.fr/recherche/interactions-cognitions/equipe-12/" style="color:blue; text-decoration:none;">ICAR</a>
 
 ## Passés
 #### Industriels
@@ -40,6 +41,3 @@ entries_layout: list
 
 #### Externe
 - Création d'un site web @<a href="http://sanspistons.fr" style="color:green; text-decoration:none;">Sans Pistons</a>
-
-## À venir
-- Chaîne de traitement pour l'analyse automatique de productions de populations dyslexiques, et visualisation de statistiques @<a href="http://icar.cnrs.fr/recherche/interactions-cognitions/equipe-12/" style="color:blue; text-decoration:none;">ICAR</a>
