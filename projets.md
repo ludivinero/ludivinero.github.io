@@ -12,7 +12,7 @@ entries_layout: list
   - Construction d’automates à états finis
   - Analyses de corpus
 - Création d'un outil d'analyse automatique de productions de populations dyslexiques, et visualisation de statistiques @<a href="http://icar.cnrs.fr/recherche/interactions-cognitions/equipe-12/" style="color:blue; text-decoration:none;">ICAR</a>
-  - Chaîne de traitement automatique du langage sur la base du lexique <a href="http://www.manulex.org/fr/home.html" style="color:blue; text-decoration:none;">manulex</a>
+  - Construction de la chaîne d'analyse automatique du langage sur la base du lexique <a href="http://www.manulex.org/fr/home.html" style="color:blue; text-decoration:none;">manulex</a>
   - Développement de l'interface web
 
 ## Passés
