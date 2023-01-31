@@ -7,8 +7,13 @@ entries_layout: list
 ---
 
 ## En cours
-- Développement d'analyses automatiques de comportements langagiers oraux et écrits pour la détection des _softskills_ @<a href="https://skilder.fr" style="color:#ffe135; text-decoration:none;">Skilder</a>x<a href="http://icar.cnrs.fr/recherche/interactions-cognitions/equipe-12/" style="color:blue; text-decoration:none;">ICAR</a>
+- Analyses automatique de comportements pour la détection des _skills_ @<a href="https://skilder.fr" style="color:#ffe135; text-decoration:none;">Skilder</a>x<a href="http://icar.cnrs.fr/recherche/interactions-cognitions/equipe-12/" style="color:blue; text-decoration:none;">ICAR</a>
+  - Développement de différents modèles d’apprentissage automatique : classification de texte, analyse de sentiment, reconnaissance vocale, recherche d’informations
+  - Construction d’automates à états finis
+  - Analyses de corpus
 - Création d'un outil d'analyse automatique de productions de populations dyslexiques, et visualisation de statistiques @<a href="http://icar.cnrs.fr/recherche/interactions-cognitions/equipe-12/" style="color:blue; text-decoration:none;">ICAR</a>
+  - Chaîne de traitement automatique du langage sur la base du lexique <a href="http://www.manulex.org/fr/home.html" style="color:blue; text-decoration:none;">manulex</a>
+  - Développement de l'interface web
 
 ## Passés
 #### Industriels
