@@ -8,9 +8,9 @@ entries_layout: list
 
 ## En cours
 - Recherche et Développement d'outils d'analyse et d'automatisation pour un logiciel de gestion des candidatures @<a href="https://skilder.fr" style="color:#ffe135; text-decoration:none;">Skilder</a>x<a href="http://icar.cnrs.fr/recherche/interactions-cognitions/equipe-12/" style="color:blue; text-decoration:none;">ICAR</a>
+  - Collecte, nettoyage et analyse des données
   - Développement et déploiement de modèles de machine/deep learning (classification de textes, analyse des sentiments, speech-to-text, etc.)
   - Développement d'automates à états finis pour l'automatisation de tâches
-  - Collecte, nettoyage et analyse des données
 - Création d'un outil d'analyse automatique de productions de populations dyslexiques, et visualisation de statistiques @<a href="http://icar.cnrs.fr/recherche/interactions-cognitions/equipe-12/" style="color:blue; text-decoration:none;">ICAR</a>
   - Construction de la chaîne d'analyse automatique du langage sur la base du lexique <a href="http://www.manulex.org/fr/home.html" style="color:blue; text-decoration:none;">manulex</a>
   - Développement de l'interface web
@@ -23,9 +23,9 @@ entries_layout: list
   - <a href="https://ludivinero.github.io/page4/" style="color:blue; text-decoration:none;">Article</a> de présentation du corpus à paraître
 - Définition, construction et évaluation d'une grille d'analyse du discours pour l'analyse de commentaires clients @<a href="https://hellofuture.orange.com/fr/" style="color:coral; text-decoration:none;">Orange</a>
   - État de l’art et constitution d’une grille généralisée en types de phrases
-  - Annotation via <a href="https://doccano.github.io/doccano/" style="color:slateblue; text-decoration:none;">Doccano</a> de corpus français et écriture d'un guide
+  - Annotation via <a href="https://doccano.github.io/doccano/" style="color:slateblue; text-decoration:none;">Doccano</a> pour la création d'un corpus français et écriture d'un guide
   - Développement et application de méthodes de clustering et échantillonnage
-  - Entraînement et évaluation de classifieurs multi-étiquettes à base de transformer
+  - Entraînement et évaluation d'un classifieurs multi-étiquettes à base de transformer
 - Test d'une interface de classification pour la création d'un corpus médical @<a href="https://www.aliae.io" style="color:slateblue; text-decoration:none;">Aliae</a>
   - Révision d'annotations en français et anglais
 
