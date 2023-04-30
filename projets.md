@@ -7,10 +7,10 @@ entries_layout: list
 ---
 
 ## En cours
-- Analyses automatique de comportements pour la détection des _skills_ @<a href="https://skilder.fr" style="color:#ffe135; text-decoration:none;">Skilder</a>x<a href="http://icar.cnrs.fr/recherche/interactions-cognitions/equipe-12/" style="color:blue; text-decoration:none;">ICAR</a>
-  - Développement de différents modèles d’apprentissage automatique : classification de texte, analyse de sentiment, reconnaissance vocale, recherche d’informations
-  - Construction d’automates à états finis
-  - Analyses de corpus
+- Recherche et Développement d'outils d'analyse et d'automatisation pour un logiciel de gestion des candidatures @<a href="https://skilder.fr" style="color:#ffe135; text-decoration:none;">Skilder</a>x<a href="http://icar.cnrs.fr/recherche/interactions-cognitions/equipe-12/" style="color:blue; text-decoration:none;">ICAR</a>
+  - Développement et déploiement de modèles de machine/deep learning (classification de textes, analyse des sentiments, speech-to-text, etc.)
+  - Développement d'automates à états finis pour l'automatisation de tâches
+  - Collecte, nettoyage et analyse des données
 - Création d'un outil d'analyse automatique de productions de populations dyslexiques, et visualisation de statistiques @<a href="http://icar.cnrs.fr/recherche/interactions-cognitions/equipe-12/" style="color:blue; text-decoration:none;">ICAR</a>
   - Construction de la chaîne d'analyse automatique du langage sur la base du lexique <a href="http://www.manulex.org/fr/home.html" style="color:blue; text-decoration:none;">manulex</a>
   - Développement de l'interface web
