@@ -7,17 +7,17 @@ entries_layout: list
 ---
 
 ## En cours
+- <a href="https://zagrow.fr/" style="color:green; text-decoration:none;">Zagrow</a> : votre site de petites annonces spécialisé dans le matériel agricole d'occasion, accompagné de son application mobile dédiée aux concessionaires agricoles.
+- Création d'un outil d'analyse automatique de productions de populations dyslexiques, et visualisation de statistiques @<a href="http://icar.cnrs.fr/recherche/interactions-cognitions/equipe-12/" style="color:blue; text-decoration:none;">ICAR</a>
+  - Construction de la chaîne d'analyse automatique du langage sur la base du lexique <a href="http://www.manulex.org/fr/home.html" style="color:blue; text-decoration:none;">manulex</a>
+  - Développement de l'interface web
+
+## Passés
+#### Industriels
 - Recherche et Développement d'outils d'analyse et d'automatisation pour un logiciel de gestion des candidatures @<a href="https://skilder.fr" style="color:#ffe135; text-decoration:none;">Skilder</a>x<a href="http://icar.cnrs.fr/recherche/interactions-cognitions/equipe-12/" style="color:blue; text-decoration:none;">ICAR</a>
   - Collecte, nettoyage et analyse des données
   - Développement et déploiement de modèles de machine/deep learning (classification de textes, analyse des sentiments, speech-to-text, etc.)
   - Développement d'automates à états finis pour l'automatisation de tâches
-- Création d'un outil d'analyse automatique de productions de populations dyslexiques, et visualisation de statistiques @<a href="http://icar.cnrs.fr/recherche/interactions-cognitions/equipe-12/" style="color:blue; text-decoration:none;">ICAR</a>
-  - Construction de la chaîne d'analyse automatique du langage sur la base du lexique <a href="http://www.manulex.org/fr/home.html" style="color:blue; text-decoration:none;">manulex</a>
-  - Développement de l'interface web
-- <a href="https://zagrow.fr/" style="color:green; text-decoration:none;">Zagrow</a> : votre site de petites annonces spécialisé dans le matériel agricole d'occasion, accompagné de son application mobile dédiée aux concessionaires agricoles.
-
-## Passés
-#### Industriels
 - Annotation linguistique de corpus pour un modèle de questions-réponses @<a href="https://www.lis-lab.fr" style="color:blue; text-decoration:none;">LIS</a>x<a href="https://hellofuture.orange.com/fr/" style="color:coral; text-decoration:none;">Orange</a>
   - Rédaction d'un guide d'annotations
   - Développement d'un corpus français annoté
