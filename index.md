@@ -15,11 +15,11 @@ Aussi, mon goût pour les outils informatiques💻 développé au sein d'une ass
 
 J’ai alors poursuivi avec un master en TAL🌍 très riche tant au niveau scientifique qu’au niveau culturel.
 Les différentes <a href="https://ludivinero.github.io/page/" style="color:#ffe135; text-decoration:none;">expériences</a> académiques📚 et industrielles🍊 m’ont permis de travailler sur plusieurs sujets de recherche et développement comme la synthèse vocale🗣, la traduction🔁, l’analyse de sentiment📜…
+Mon attrait pour ce domaine et les technologies associées qui évoluent chaque jour me font progresser dans mon <a href="https://ludivinero.github.io/page2/" style="color:#ffe135; text-decoration:none;">parcours</a>.
 
-Mon attrait pour ce domaine et les technologies associées qui évoluent chaque jour me font progresser dans mon <a href="https://ludivinero.github.io/page2/" style="color:#ffe135; text-decoration:none;">parcours</a> de TAListe.
+Après quelques années en tant qu'ingénieure à développer différents modèles et outils de taln/ia, je me suis lancée dans une aventure entrepreunariale avec <a href="https://www.zagrow.fr/" style="color:green; text-decoration:none;">Zagrow</a>.
 
-Actuellement ingénieure d'études @Skilder, mon intérêt se porte sur le développement de modèles taln/ia pour l’analyse de comportements.
-Durant mes temps libres, j'aime continuer à développer mes compétences en développement web\/ia et communication via mon association musicale; mais aussi 🏃‍ 🌍 👩‍🍳 ...
+Durant mes temps libres, j'aime continuer à développer mes compétences en développement web\/ia et communication notamment via mon association musicale; mais aussi 🏃‍ 🌍 👩‍🍳 ...
 [tbc]
 
 
