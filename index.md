@@ -9,19 +9,27 @@ entries_layout: list
 
 **Intérêts : nlp, ia, dev web, marketing, communication, eutrepreunariat, environnement**
 
-👋🏻 Après une licence en Sciences du Langage👩🏻‍🎓 qui m’a fait découvrir l’univers du Traitement Automatique des Langues par la manipulation de logiciels linguistiques, la programmation ou encore le recueil et l’annotation de corpus, j’ai souhaité continuer dans cette voie à l’intersection de la linguistique et de l’intelligence artificielle.
+🌟 À propos de moi
+Passionnée par l’intersection entre la linguistique et l’intelligence artificielle, je suis ingénieure en traitement automatique des langues (NLP) et développeuse web, avec un master en TAL et plusieurs années d’expérience en recherche et développement. Mon parcours m’a permis de travailler sur des projets innovants tels que la synthèse vocale, la traduction automatique, ou encore l’analyse de sentiment, des technologies qui façonnent notre quotidien.
 
-Aussi, mon goût pour les outils informatiques💻 développé au sein d'une association musicale📯 a renforcé ce choix.
+Après avoir enrichi mes compétences dans des contextes académiques et industriels variés, j’ai choisi de relever un nouveau défi en cofondant <a href="https://agence-wemedia.fr/" style="color:orange; text-decoration:none;">Wemedia</a>, une aventure entrepreneuriale qui me permet de développer des solutions sur mesure, à la croisée du web et de l’intelligence artificielle tel que <a href="https://www.zagrow.fr/" style="color:green; text-decoration:none;">Zagrow</a>.
 
-J’ai alors poursuivi avec un master en TAL🌍 très riche tant au niveau scientifique qu’au niveau culturel.
-Les différentes <a href="https://ludivinero.github.io/page/" style="color:#ffe135; text-decoration:none;">expériences</a> académiques📚 et industrielles🍊 m’ont permis de travailler sur plusieurs sujets de recherche et développement comme la synthèse vocale🗣, la traduction🔁, l’analyse de sentiment📜…
-Mon attrait pour ce domaine et les technologies associées qui évoluent chaque jour me font progresser dans mon <a href="https://ludivinero.github.io/page2/" style="color:#ffe135; text-decoration:none;">parcours</a>.
+🌐 Ce que je peux vous apporter
+Je mets à profit mon expertise pour répondre à vos besoins spécifiques en matière de développement web et d’automatisation intelligente :
+-Création ou refonte de sites et applications web
+-Développement d’outils et de modèles NLP/IA adaptés à votre secteur
+-Optimisation des flux de travail grâce à des automatisations innovantes
+-Accompagnement stratégique pour allier vos objectifs à des solutions techniques performantes
+Qu’il s’agisse de la création d'un site vitrine ou de la programmation, je m’attache à concevoir des projets personnalisés et à vous accompagner tout au long de leur réalisation.
 
-Après quelques années en tant qu'ingénieure à développer différents modèles et outils de taln/ia, je me suis lancée dans une aventure entrepreunariale avec <a href="https://www.zagrow.fr/" style="color:green; text-decoration:none;">Zagrow</a>.
+🚀 Pourquoi collaborer avec moi ?
+Double expertise en TAL et développement web
+Esprit entrepreneurial : orientée résultats, proactive et créative
+Une approche centrée sur vos besoins et une capacité à transformer vos idées en solutions concrètes
+Engagement et rigueur pour garantir un travail de qualité
 
-Durant mes temps libres, j'aime continuer à développer mes compétences en développement web\/ia et communication notamment via mon association musicale; mais aussi 🏃‍ 🌍 👩‍🍳 ...
-[tbc]
-
+🌟 Toujours en quête de défis
+Je suis toujours à la recherche de nouveaux projets stimulants et serais ravie de collaborer avec vous. N’hésitez pas à me contacter pour discuter de votre vision et découvrir comment je peux contribuer à concrétiser vos ambitions !
 
 <p align="center"><i>Le plus efficace pour créer, c’est clairement la sieste. En me levant, tout est fait.</i></p>
 
