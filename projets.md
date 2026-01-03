@@ -7,6 +7,7 @@ entries_layout: list
 ---
 
 ## En cours
+- <a href="https://supernestor.fr/" style="color:blue; text-decoration:none;">Supernestor</a> réinvente vos formations internes. Transformez vos documentations techniques et process lourds en guides interactifs. Ne répétez plus jamais 10 fois la même chose.
 - <a href="https://zagrow.fr/" style="color:green; text-decoration:none;">Zagrow</a> : votre site de petites annonces spécialisé dans le matériel agricole d'occasion, accompagné de son application mobile dédiée aux concessionaires agricoles (<a href="https://www.zagrow.fr/become-partner" style="color:green; text-decoration:none;">MyZagrow</a>).
 - Création d'un outil d'analyse automatique de productions de populations dyslexiques, et visualisation de statistiques @<a href="http://icar.cnrs.fr/recherche/interactions-cognitions/equipe-12/" style="color:blue; text-decoration:none;">ICAR</a>
   - Construction de la chaîne d'analyse automatique du langage sur la base du lexique <a href="http://www.manulex.org/fr/home.html" style="color:blue; text-decoration:none;">manulex</a>
